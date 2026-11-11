@@ -1,0 +1,15 @@
+# Generated output
+output/
+example_output/
+
+# Local scratch / legacy files (not part of the published code)
+BACKUP/
+ref.R
+PTCA_testing.R
+PTCA_testing2.R
+
+# R / OS
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
