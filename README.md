@@ -58,3 +58,7 @@ Rscript example.R
 - Features with data in only one study are kept and use that study's own statistics.
 - Correlations use pairwise-complete observations, so missing Z values are skipped.
 - For `rankMethod = "Random"`, `MA_Z` is signed using the fixed-effect estimate (RE2C itself is unsigned), and `MA_se` is `NA`.
+
+## License
+
+MIT © 2026 Sanan Venkatesh. See [LICENSE](LICENSE).
